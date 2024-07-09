@@ -1,4 +1,4 @@
-# Analyzed ott platform data for various shows and movies, creating an interactive dashboard using powerbi
+# Analyzed road accident for the years 2021 and 2022 for different locations 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,9 +7,9 @@
     
 </head>
 <body>
-<p>In the competitive world of online streaming platforms like Netflix, Amzon, Hotstar etc. amagenerate vast amounts of data on their content and user interactions. Analyzing this data is crucial for understanding viewer preferences, content performance, and overall platform success. Using PowerBI, I have created an interactive dashboard that provides comprehensive insights into various aspects of the movies platform. This report outlines the key metrics used, the data analysis process, and the features of the interactive dashboard.</p>
+<p>The Road Accident Analysis PowerBI Report provides a comprehensive overview of road accident data, highlighting key metrics such as CY Light Casualties, CY Serious Casualties, CY Fatal Casualties , Total CY Casulaties, Total CY Accidents, Casualties by Vehicle Type , Casulaties by Road Type , Casulaties by Light Condition, Casulaties by Urban/Rural, Casulaties by Location, CY Casualties vs PY Casualties based on road surface and weather Conditions. The report visualizes trends, patterns, and correlations through interactive charts and graphs, enabling stakeholders to gain valuable insights for improving road safety and implementing effective preventive measures.</p>
 
-<h1>Netflix Dashboard</h1>
+<h1>Road Aciident Analysis Dashboard</h1>
 <img width="960" alt="yt_clone" src="https://github.com/subhagittu/PowerBi_Project_1/blob/main/Netflix.png">
 <p>Here we have analyzed the database and extracted several visual graphs like :<br>
 <ul>
