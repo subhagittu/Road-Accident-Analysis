@@ -14,7 +14,7 @@
 <p>Here we have analyzed the database and extracted several visual graphs like :<br>
 <ul>
     <li><code>CY Slight Casualties: </code>      It refers to the number of casualties (injuries or fatalities) resulting from road accidents within a specific calendar year.<br><b>Fields: </b>CY Casualties and YoY Casulaties </li>
-    <li><code>Awards Recived by shows: </code>  Recognition in the form of awards, highlighting critically acclaimed content.<br> <b>X-axis: </b> Netflix Release Year,<b>Y-axis: </b>Awards Recieved<b>Legend: </b>View Rating,<b>Values: </b>Count of title</li>
+    <li><code>CY Serious Casualties: </code>  It refers to the number of individuals who have sustained serious injuries in road accidents within a specific calendar year.<br><b>Fields: </b>CY Casualties and YoY Casulaties </li>
     <li><code>Show Duration: </code>  Length of shows, which can influence viewer retention and completion rates.<br> <b>Legend: </b>Run Time, <b>Values: </b> Count of title</li>
     <li><code>Yearly Release: </code>  Trends in content release over the years, helping to identify growth and changes in content strategy.<br><b>X-axis: </b> Netflix Release Year,<b>Y-axis: </b> Count of Title <b>Legend: </b> Series or Movie </li>
     <li><code>List of Shows: </code>  A comprehensive catalog of available shows, enabling detailed analysis of the content library.<br><b>Field: </b> Title</li>
