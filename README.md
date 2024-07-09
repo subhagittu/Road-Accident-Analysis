@@ -13,7 +13,7 @@
 <img width="960" alt="yt_clone" src="https://github.com/subhagittu/Road-Accident-Analysis/blob/acecc48c3d94493b7ce33b868ee5d3ca91b8ffdc/dash_1.png">
 <p>Here we have analyzed the database and extracted several visual graphs like :<br>
 <ul>
-    <li><code>View Rating: </code>      Viewer ratings for movies and shows, reflecting audience satisfaction and engagement.<br><b>Legend: </b>View Rating,<b>Values: </b>Count of title </li>
+    <li><code>View Rating: </code>      It refers to the number of casualties (injuries or fatalities) resulting from road accidents within a specific calendar year.<br><b>Fields: </b>CY Casualties and YoY Casulaties </li>
     <li><code>Awards Recived by shows: </code>  Recognition in the form of awards, highlighting critically acclaimed content.<br> <b>X-axis: </b> Netflix Release Year,<b>Y-axis: </b>Awards Recieved<b>Legend: </b>View Rating,<b>Values: </b>Count of title</li>
     <li><code>Show Duration: </code>  Length of shows, which can influence viewer retention and completion rates.<br> <b>Legend: </b>Run Time, <b>Values: </b> Count of title</li>
     <li><code>Yearly Release: </code>  Trends in content release over the years, helping to identify growth and changes in content strategy.<br><b>X-axis: </b> Netflix Release Year,<b>Y-axis: </b> Count of Title <b>Legend: </b> Series or Movie </li>
