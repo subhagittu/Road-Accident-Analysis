@@ -10,7 +10,7 @@
 <p>The Road Accident Analysis PowerBI Report provides a comprehensive overview of road accident data, highlighting key metrics such as CY Light Casualties, CY Serious Casualties, CY Fatal Casualties , Total CY Casulaties, Total CY Accidents, Casualties by Vehicle Type , Casulaties by Road Type , Casulaties by Light Condition, Casulaties by Urban/Rural, Casulaties by Location, CY Casualties vs PY Casualties based on road surface and weather Conditions. The report visualizes trends, patterns, and correlations through interactive charts and graphs, enabling stakeholders to gain valuable insights for improving road safety and implementing effective preventive measures.</p>
 
 <h1>Road Aciident Analysis Dashboard</h1>
-<img width="960" alt="yt_clone" src="https://github.com/subhagittu/PowerBi_Project_1/blob/main/Netflix.png">
+<img width="960" alt="yt_clone" src="https://github.com/subhagittu/Road-Accident-Analysis/blob/acecc48c3d94493b7ce33b868ee5d3ca91b8ffdc/dash_1.png">
 <p>Here we have analyzed the database and extracted several visual graphs like :<br>
 <ul>
     <li><code>View Rating: </code>      Viewer ratings for movies and shows, reflecting audience satisfaction and engagement.<br><b>Legend: </b>View Rating,<b>Values: </b>Count of title </li>
