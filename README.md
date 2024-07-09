@@ -15,8 +15,8 @@
 <ul>
     <li><code>CY Slight Casualties: </code>      It refers to the number of casualties (injuries or fatalities) resulting from road accidents within a specific calendar year.<br><b>Fields: </b>CY Casualties and YoY Casulaties </li>
     <li><code>CY Serious Casualties: </code>  It refers to the number of individuals who have sustained serious injuries in road accidents within a specific calendar year.<br><b>Fields: </b>CY Casualties and YoY Casulaties </li>
-    <li><code>Show Duration: </code>  Length of shows, which can influence viewer retention and completion rates.<br> <b>Legend: </b>Run Time, <b>Values: </b> Count of title</li>
-    <li><code>Yearly Release: </code>  Trends in content release over the years, helping to identify growth and changes in content strategy.<br><b>X-axis: </b> Netflix Release Year,<b>Y-axis: </b> Count of Title <b>Legend: </b> Series or Movie </li>
+    <li><code>CY Fatal Casulaties: </code>  This metric is crucial for understanding the severity and impact of road accidents and for evaluating the effectiveness of road safety measures over time.<br> <b>Legend: <br><b>Fields: </b>CY Casualties and YoY Casulaties </li>
+    <li><code>CY Total Casualties: </code>   It refers to the total number of individuals who have been injured or killed in road accidents within a specific calendar year.<br><b>Fields: </b>CY Casualties and YoY Casulaties </li>
     <li><code>List of Shows: </code>  A comprehensive catalog of available shows, enabling detailed analysis of the content library.<br><b>Field: </b> Title</li>
     <li><code>Genre: </code>  Classification of shows into genres, aiding in the understanding of genre popularity and viewer preferences.<br><b>Field: </b> Genre </li>
     <li><code>IBDB Score: </code>  External ratings from IMDb, providing an additional perspective on content quality.<br><b>Field: </b> Average of IMDB Score</li>
