@@ -18,11 +18,12 @@
     <li><code>CY Fatal Casulaties: </code>  This metric is crucial for understanding the severity and impact of road accidents and for evaluating the effectiveness of road safety measures over time.<br> <b>Legend: <br><b>Fields: </b>CY Casualties and YoY Casulaties </li>
     <li><code>CY Total Casualties: </code>   It refers to the total number of individuals who have been injured or killed in road accidents within a specific calendar year.<br><b>Fields: </b>CY Casualties and YoY Casulaties </li>
     <li><code>Total CY Accidents: </code>  A comprehensive catalog of available shows, enabling detailed analysis of the content library.<br><b>Field: </b> CY Accidents Count and YOY Accidents</li>
-    <li><code>Casualties by Vehicle Type: </code>  Classification of shows into genres, aiding in the understanding of genre popularity and viewer preferences.<br><b>Field: </b> Genre </li>
-    <li><code>IBDB Score: </code>  External ratings from IMDb, providing an additional perspective on content quality.<br><b>Field: </b> Average of IMDB Score</li>
-    <li><code>Total Shows: </code>  The overall count of shows available on the platform.<br><b>Field: </b> Total Shows </li>
-    <li><code>Movies net with percentage: </code>  The proportion and count of movies in the total content library.<br><b>Field: </b> Movies Net </li>
-    <li><code>Series net with percentage: </code>  The proportion and count of series in the total content library.<br><b>Field: </b> Series Net  </li>
+    <li><code>Casualties by Vehicle Type: </code>  refers to the categorization and analysis of road accident casualties based on the type of vehicle involved in the accidents.<br><b>Field: </b> Vehicle_Type (groups) , CY Casualties </li>
+     <li><code>Casualties by Road Type: </code>  refers to the categorization and analysis of road accident casualties based on the type of road where the accidents occurred.<br><b>Y Axis: </b> Road_Type (groups) , <b>X Axis: </b> CY Casualties </li>
+     <li><code>CY Casualties vs PY Casualties Monthly Trend: </code>  compares the number of casualties from road accidents for the current year (CY) against the previous year (PY) on a month-by-month basis.<br><b>Y Axis: </b> Sum of Number of Casualties , <b>X Axis: </b> Month </li>
+   <li><code>CY Casualties by Light Conditions: </code>   refers to the analysis of road accident casualties in the current calendar year (CY) based on the lighting conditions at the time of the accidents.<br><b>Legend: </b> Light Condition (groups) , <b>Values: </b> CY Casualties </li>
+   <li><code>CY Casualties by Urban/Rural: </code>  refers to the analysis of road accident casualties in the current calendar year (CY) based on whether the accidents occurred in urban or rural areas.<br><b>Legend: </b> Urban or Rural Area , <b>Values: </b> CY Casualties </li>
+   <li><code>CY Casualties by Location: </code>  refers to the analysis of road accident casualties in the current calendar year (CY) based on whether the accidents occurred in urban or rural areas.<br><b>Location: </b> Local Authority (District) </li>
     </ul>
 </p>
 
